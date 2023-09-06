@@ -130,4 +130,4 @@ The code of these 4 heuristic functions are calculated at [here](https://github.
 
 ## Team members:
 - Kiet Phan (#95769543)
-- Ken Wong
+- Ken Woon (#58586884)
